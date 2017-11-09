@@ -9,9 +9,9 @@ func main() {
 		if i%2 == 0 {
 			continue
 		}
-		fmt.Println(i)
 		if i >= 50 {
 			break
 		}
+		fmt.Println(i)
 	}
 }
