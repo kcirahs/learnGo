@@ -6,7 +6,7 @@ const kmToMiles float64 = 1.6
 
 func main() {
 	var (
-		km float64
+		km   float64
 		exit string
 	)
 	fmt.Print("Enter kilometers cycled: ")
